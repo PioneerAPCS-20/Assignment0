@@ -1,6 +1,6 @@
 # Assignment0
 
-For this assignment you will write a short Java program that will output your initials. An example of mine is below.
+For this assignment you will write a short Java program that will output your initials (if you don't have three initials, use the first three letters of your first or last name). An example of mine is below.
 
 
         C C C C         J J J J J J J     K       K
